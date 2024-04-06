@@ -1,0 +1,18 @@
+.primera-tarjeta {
+    margin: 200px; /* Centrar la primera tarjeta */
+    max-width: 95rem; /* Ancho máximo para la primera tarjeta */
+    padding: 20px;
+}
+.centrar-imagen {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-body-center {
+    text-align: center;
+}

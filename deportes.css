@@ -1,0 +1,5 @@
+.noticia img,
+.evento img {
+  max-width: 100%;
+  height: auto;
+}
